@@ -1,5 +1,5 @@
 # WebFX Libs
-A space to host [WebFX][webfx-repo] libraries, either brand new, or ports of existing JavaFX libraries. You will find all the WebFX libraries used by the [demos][webfx-website] or other WebFX components. If you have another WebFX library you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
+A space to host [WebFX][webfx-repo] libraries, either brand new, or ports of existing JavaFX libraries. You will find all the WebFX libraries used by the [demos](https://github.com/webfx-demos) or other WebFX components. If you have another WebFX library you would like to link here, please [contact us][webfx-contact], and we will add it to the list.
 
 <div align="center">
 
