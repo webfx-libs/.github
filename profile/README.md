@@ -1,5 +1,5 @@
 # WebFX Libs
-A space to host [WebFX][webfx-repo] libraries, either brand new, or ports of existing JavaFX libraries. You will find all the libraries used by the [demos][webfx-website] or other WebFX components. If you have another WebFX library you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
+A space to host [WebFX][webfx-repo] libraries, either brand new, or ports of existing JavaFX libraries. You will find all the WebFX libraries used by the [demos][webfx-website] or other WebFX components. If you have another WebFX library you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
 
 <div align="center">
 
@@ -17,7 +17,7 @@ A space to host [WebFX][webfx-repo] libraries, either brand new, or ports of exi
 [webfx-repo]: https://github.com/webfx-project/webfx
 [webfx-stack-repo]: https://github.com/webfx-project/webfx-stack
 [webfx-cli-repo]: https://github.com/webfx-project/webfx-cli
-[webfx-website]: https://preview.webfx.dev
+[webfx-website]: https://webfx.dev
 [webfx-contact]: mailto:info@webfx.dev
 [webfx-tallycounter-demo-link]: https://tallycounter.webfx.dev
 [webfx-moderngauge-demo-link]: https://moderngauge.webfx.dev
