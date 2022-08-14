@@ -11,12 +11,13 @@ This is a space to host [WebFX][webfx-repo] libraries, either brand new or ports
 |            [Enzo](https://github.com/webfx-libs/webfx-lib-enzo)             | Clock & flip panel controls           |    [HanSolo](https://bitbucket.org/hansolo/enzo/src/master/)    |    Partial    |                                [Enzo Clocks][webfx-enzoclocks-demo-link] <br/> [Website (flip)][webfx-website]                                |
 |   [Circle Packing](https://github.com/webfx-libs/webfx-lib-circlepacking)   | Layout using circle packing algorithm |                           *Brand new*                           |               |                           [Enzo Clocks][webfx-enzoclocks-demo-link] <br/> [Led Packing][webfx-ledpacking-demo-link]                           |
 | [Tracer framework](https://github.com/webfx-libs/webfx-lib-tracerframework) | Pixel rendering mini framework        |                           *Brand new*                           |               |                            [Ray Tracer][webfx-raytracer-demo-link] <br/>  [Mandelbrot][webfx-mandelbrot-demo-link]                            | 
-|  [JavaCUP runtime](https://github.com/webfx-libs/webfx-lib-javacupruntime)  | Runtime of CUP parser for Java        | [Scott Hudson](http://www2.cs.tum.edu/projects/cup/install.php) |     Full      |                                                        [WebFX Stack][webfx-stack-repo]                                                        |
+|  [JavaCUP runtime](https://github.com/webfx-libs/webfx-lib-javacupruntime)  | Runtime of CUP parser for Java        | [Scott Hudson](http://www2.cs.tum.edu/projects/cup/install.php) |     Full      |                                                 [WebFX Platform (JSON)][webfx-platform-repo]                                                  |
 |  [Reusable stream](https://github.com/webfx-libs/webfx-lib-reusablestream)  | Stream like API but reusable          |                           *Brand new*                           |               |                                                          [WebFX CLI][webfx-cli-repo]                                                          |
 
 </div>
 
 [webfx-repo]: https://github.com/webfx-project/webfx
+[webfx-platform-repo]: https://github.com/webfx-project/webfx-platform
 [webfx-stack-repo]: https://github.com/webfx-project/webfx-stack
 [webfx-cli-repo]: https://github.com/webfx-project/webfx-cli
 [webfx-website]: https://webfx.dev
